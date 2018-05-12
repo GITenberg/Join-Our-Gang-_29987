@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34292
     wikipedia: http://en.wikipedia.org/wiki/Sterling_E._Lanier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29987#Join-Our-Gang-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-14'
 gutenberg_type: Text
